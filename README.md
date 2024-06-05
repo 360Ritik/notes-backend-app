@@ -5,6 +5,9 @@ This repository contains the backend code for a notes application. It provides A
 
 [Watch API Demonstration Video] [notes-backend-app.webm](https://github.com/360Ritik/notes-backend-app/assets/93071300/b076edba-9254-4824-93b5-ff4f87349885)
 
+## AWS Deployment 
+![Screenshot from 2024-06-05 18-44-46](https://github.com/360Ritik/notes-backend-app/assets/93071300/580ed8e5-3412-4d20-bd99-fc324f4cb581)
+![Screenshot from 2024-06-05 18-45-40](https://github.com/360Ritik/notes-backend-app/assets/93071300/cfb413f9-b63b-46f1-8f95-d61e3c72b241)
 
 ## Setup
 
