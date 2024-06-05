@@ -32,6 +32,7 @@ The server will start on port 3000 by default. You can change the port in server
 ## API Endpoints
 
 ### Authentication
+- POST /api/auth/register: Register a new user with username, email, and password.
 - POST /api/auth/login: Log in with username and password to obtain a session token.
 - POST /api/auth/logout: Log out and invalidate the session token.
 
@@ -46,8 +47,8 @@ The server will start on port 3000 by default. You can change the port in server
 : Delete a note by ID.
 
 
-Session-Based Authentication
-This backend uses session-based authentication. After logging in, the server will create a session for the user and return a session token. This token should be included in subsequent requests as a cookie or in the Authorization header to authenticate the user.
+Session-Based Authentication: 
+- This backend uses session-based authentication. After logging in, the server will create a session for the user and return a session token. This token should be included in subsequent requests as a cookie or in the Authorization header to authenticate the user.
 
 Contributors
 Ritik Kumar
